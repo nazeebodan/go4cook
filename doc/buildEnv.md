@@ -1,19 +1,19 @@
-#### eclipseÓÃ¹ßÁË£¬ËùÒÔ¿ª·¢»·¾³²ÉÓÃeclipse+go²å¼şµÄ·½Ê½´î½¨¡£ ²Î¿¼£ºhttp://goclipse.github.io/
+### Eclipseç”¨æƒ¯äº†ï¼Œæ‰€ä»¥å¼€å‘ç¯å¢ƒé‡‡ç”¨eclipse+goæ’ä»¶çš„æ–¹å¼æ­å»ºã€‚ å‚è€ƒï¼šhttp://goclipse.github.io/
 
-* 1.°²×°×îĞÂµÄgo£¬ÅäÖÃgoroot¡¢gopath
+* 1.å®‰è£…æœ€æ–°çš„goï¼Œé…ç½®gorootã€gopath
 
-* 2.ÏÂÔØeclipse£¬ÒòÎªĞèÒªdebug¹¦ÄÜ£¬¶ødebugĞèÒªgdb£¬ËùÒÔ½¨ÒéÏÂÔØEclipse IDE for C/C++ Developers
+* 2.ä¸‹è½½eclipseï¼Œå› ä¸ºéœ€è¦debugåŠŸèƒ½ï¼Œè€Œdebugéœ€è¦gdbï¼Œæ‰€ä»¥å»ºè®®ä¸‹è½½Eclipse IDE for C/C++ Developers
 
-* 3.ÏÂÔØÍê±Ïºó£¬Èç¹ûÅäÖÃÁË¿ÆÑ§ÉÏÍø£¬ÄÇÃ´¿ÉÒÔÖ±½Ó Help -> Install New Software -> add -> http://goclipse.github.io/releases/ À´½øĞĞ²å¼şµÄ°²×°¡£Èç¹ûÃ»ÓĞÅäÖÃ¿ÆÑ§ÉÏÍø£¬ÄÇÃ´¾ÍÏÈ°Ñgo²å¼şÏÂÔØÏÂÀ´£¬ÏÂÔØµØÖ·Îªhttps://github.com/GoClipse/goclipse.github.io/archive/master.zip£¬ ½âÑ¹ºó£¬ÓÃreleasesÄÇÒ»²ãµÄÄ¿Â¼×÷Îª Local repository£¬½Ó×Å°²×°¼´¿É£¬×¢ÒâĞèÒªUncheck the option ¡°Contact all updates sites during installation to find required software¡±
+* 3.ä¸‹è½½å®Œæ¯•åï¼Œå¦‚æœé…ç½®äº†ç§‘å­¦ä¸Šç½‘ï¼Œé‚£ä¹ˆå¯ä»¥ç›´æ¥ Help -> Install New Software -> add -> http://goclipse.github.io/releases/ æ¥è¿›è¡Œæ’ä»¶çš„å®‰è£…ã€‚å¦‚æœæ²¡æœ‰é…ç½®ç§‘å­¦ä¸Šç½‘ï¼Œé‚£ä¹ˆå°±å…ˆæŠŠgoæ’ä»¶ä¸‹è½½ä¸‹æ¥ï¼Œä¸‹è½½åœ°å€ä¸ºhttps://github.com/GoClipse/goclipse.github.io/archive/master.zipï¼Œ è§£å‹åï¼Œç”¨releasesé‚£ä¸€å±‚çš„ç›®å½•ä½œä¸º Local repositoryï¼Œæ¥ç€å®‰è£…å³å¯ï¼Œæ³¨æ„éœ€è¦Uncheck the option â€œContact all updates sites during installation to find required softwareâ€
 
-* 4.ÉèÖÃ»·¾³±äÁ¿Windows->Reference-> Go ÕâÒ»²½Ö÷ÒªÅäÖÃÊÇÅäÖÃgopath¡¢goroot£¬ÔÚtoolsµÄÑ¡ÏîÀïÃæ£¬ÅäÖÃgocode¡¢guru¡¢godef£¬ÅäÖÃºóÒÔÉÏºóµã»÷apply¡£¶ÔÓÚgocode¡¢guru¡¢godef Õâ3¸ö¹¤¾ßĞèÒª½øĞĞ±àÒë£¬±àÒëµÄ·½·¨ÊÇÏÂÔØÏÂÀ´ºó£¬Ö´ĞĞgo build xxxx£¬È»ºóÉú³É¶ÔÓ¦µÄ .exe ÎÄ¼ş¡£ÔÚÕâ¶ùÌá¹©Ò»¸ö±àÒëºÃµÄÏÂÔØ http://pan.baidu.com/s/1qYAvUFi
+* 4.è®¾ç½®ç¯å¢ƒå˜é‡Windows->Reference-> Go è¿™ä¸€æ­¥ä¸»è¦é…ç½®æ˜¯é…ç½®gopathã€gorootï¼Œåœ¨toolsçš„é€‰é¡¹é‡Œé¢ï¼Œé…ç½®gocodeã€guruã€godefï¼Œé…ç½®åä»¥ä¸Šåç‚¹å‡»applyã€‚å¯¹äºgocodeã€guruã€godef è¿™3ä¸ªå·¥å…·éœ€è¦è¿›è¡Œç¼–è¯‘ï¼Œç¼–è¯‘çš„æ–¹æ³•æ˜¯ä¸‹è½½ä¸‹æ¥åï¼Œæ‰§è¡Œgo build xxxxï¼Œç„¶åç”Ÿæˆå¯¹åº”çš„ .exe æ–‡ä»¶ã€‚åœ¨è¿™å„¿æä¾›ä¸€ä¸ªç¼–è¯‘å¥½çš„ä¸‹è½½ http://pan.baidu.com/s/1qYAvUFi
 
-* 5.ÅäÖÃdebug¹¦ÄÜ£¬¾ÍÊÇÏëgdbÅäÖÃºÃ¡£ÍøÉÏËµÏÂÔØMinGW£¨http://sourceforge.net/projects/mingw/files/MinGW/£©£¬È»ºóÏÂÔØÏàÓ¦µÄgdb°ü£¬ÔÙÔÚÏàÓ¦µÄgdb debuggerĞ´ÉÏgdbÎÄ¼şµÄÂ·¾¶¡£ÎÒÊÔÁËÊÔ£¬Ò»Ö±ÔÚËµ°æ±¾²»¶Ô£¬ËùÒÔgoogleÁËÒ»ÏÂ£¬×îÖÕµÄ½â¾ö·½°¸ÊÇÏÂÔØÒ»¸öliteide£¬ÔÚËüµÄbinÎÄ¼ş¼ĞÀïÃæÓĞgdb64.exe£¬½«Õâ¸öÂ·¾¶ÌîÈëÉÏÊöµÄµØ·½¼´¿É¡£
+* 5.é…ç½®debugåŠŸèƒ½ï¼Œå°±æ˜¯æƒ³gdbé…ç½®å¥½ã€‚ç½‘ä¸Šè¯´ä¸‹è½½MinGWï¼ˆhttp://sourceforge.net/projects/mingw/files/MinGW/ ï¼‰ï¼Œ ç„¶åä¸‹è½½ç›¸åº”çš„gdbåŒ…ï¼Œå†åœ¨ç›¸åº”çš„gdb debuggerå†™ä¸Šgdbæ–‡ä»¶çš„è·¯å¾„ã€‚æˆ‘è¯•äº†è¯•ï¼Œä¸€ç›´åœ¨è¯´ç‰ˆæœ¬ä¸å¯¹ï¼Œæ‰€ä»¥googleäº†ä¸€ä¸‹ï¼Œæœ€ç»ˆçš„è§£å†³æ–¹æ¡ˆæ˜¯ä¸‹è½½ä¸€ä¸ªliteideï¼Œåœ¨å®ƒçš„binæ–‡ä»¶å¤¹é‡Œé¢æœ‰gdb64.exeï¼Œå°†è¿™ä¸ªè·¯å¾„å¡«å…¥ä¸Šè¿°çš„åœ°æ–¹å³å¯ã€‚
 
-* 6.½«eclipseÖĞµÄgo projectÉÏ´«µ½githubµÄ²½Öè£º
-	* team shared project --> ¹´Ñ¡  Use or create repository in parent folder of project --> µã»÷  Create Repository  ->  Finish
-	* Team --> commit ±¾µØÌá½»
-	* ÔÚgithub½¨Á¢Ò»¸öÄãÏëÃüÃûµÄgithub project
-	* Team --> Remote --> Push ,ÆäÖĞURI¾ÍÊÇgithubÉÏÃæÖ¸¶¨µÄµØÖ·
-	* source ref Ñ¡Ôñ refs/heads/master  destination ref»á×Ô¶¯Ìî³ä£¬µã»÷  Add Spec¹´Ñ¡Focus update¿ªÊ¼Ìá½»
-	* Èç¹ûÓĞÎÊÌâ£¬¿ÉÒÔÑ¡ÔñÌá½»µÄÊ±ºòmerge branch 'master' to githubµÄÏîÄ¿µØÖ·
+* 6.å°†eclipseä¸­çš„go projectä¸Šä¼ åˆ°githubçš„æ­¥éª¤ï¼š
+	* team shared project --> å‹¾é€‰  Use or create repository in parent folder of project --> ç‚¹å‡»  Create Repository  ->  Finish
+	* Team --> commit æœ¬åœ°æäº¤
+	* åœ¨githubå»ºç«‹ä¸€ä¸ªä½ æƒ³å‘½åçš„github projectï¼Œå¦‚æœç¼ºå°‘è¿™ä¸€æ­¥ï¼Œæœ‰å¯èƒ½åœ¨ä¸‹ä¸€æ­¥pushçš„æ—¶å€™ï¼Œä¼šè¯´æ‰¾ä¸åˆ°remoteä»“åº“çš„ é¡¹ç›®åç§°.git æ–‡ä»¶
+	* Team --> Remote --> Push ,å…¶ä¸­URIå°±æ˜¯githubä¸Šé¢æŒ‡å®šçš„åœ°å€
+	* source ref é€‰æ‹© refs/heads/master  destination refä¼šè‡ªåŠ¨å¡«å……ï¼Œç‚¹å‡»  Add Specå‹¾é€‰Focus updateå¼€å§‹æäº¤
+	* å¦‚æœæœ‰é—®é¢˜ï¼Œå¯ä»¥é€‰æ‹©æäº¤çš„æ—¶å€™merge branch 'master' to githubçš„é¡¹ç›®åœ°å€
