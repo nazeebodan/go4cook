@@ -17,3 +17,5 @@
 	* Team --> Remote --> Push ,其中URI就是github上面指定的地址
 	* source ref 选择 refs/heads/master  destination ref会自动填充，点击  Add Spec勾选Focus update开始提交
 	* 如果有问题，可以选择提交的时候merge branch 'master' to github的项目地址
+
+* 7.注意目录src下需要有一个main目录，否则运行时会报错：resource doesn't have a corresponding Go package.
