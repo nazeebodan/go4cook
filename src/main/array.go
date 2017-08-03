@@ -27,7 +27,7 @@ import (
 /*
 数组指针
 */
-func main() {
+func main1() {
 	a := [...]int{99: 1}
 	var p *[100]int = &a
 	fmt.Println(p)
@@ -47,10 +47,10 @@ func main() {
 	p3[1] = 2
 	fmt.Println(p3)
 	//======================
-	sort()
+	sortTest()
 }
 
-func sort() {
+func sortTest() {
 	a := [...]int{3, 2, 6, 5, 1, 4}
 	fmt.Println(a)
 
