@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mainMethod() {
 	//	methodA(1, 2, 3, 4)
 
 	//	methodB()
