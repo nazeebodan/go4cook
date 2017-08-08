@@ -16,7 +16,7 @@ type person struct {
 	}
 }
 
-func main() {
+func mainstruct() {
 	structInit2()
 	fmt.Println("==================")
 	structInit3()
