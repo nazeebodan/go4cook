@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func mainMethod() {
+func mainFunction() {
 	//	methodA(1, 2, 3, 4)
 
 	//	methodB()
@@ -16,11 +16,11 @@ func mainMethod() {
 }
 
 //这个a是一个slice，类似于python的元组
-func methodA(a ...int) {
+func functionA(a ...int) {
 	fmt.Println(a)
 }
 
-func methodB() {
+func functionB() {
 	a := func() {
 		fmt.Println("这个是匿名函数")
 	}
