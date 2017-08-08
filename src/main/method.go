@@ -45,4 +45,12 @@ func main() {
 	//*和&只是为了指针传递
 	(*mt).test(&ii)
 
+	//以下是实现了基础int类型的一个increase方法作为示例
+	var j mt
+	j.increse(999)
+	fmt.Println(j)
+}
+
+func (i *mt) increse(num int) {
+	*i += mt(num) //注意这个地方，虽然num是int型，但要先转一次转成mt再来做+
 }
