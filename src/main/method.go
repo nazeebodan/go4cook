@@ -29,7 +29,7 @@ func (i *mt) test() {
 	fmt.Println("method mt!!!")
 }
 
-func main() {
+func mainmethod() {
 	a := A{}
 	a.test()
 	fmt.Println(a)
