@@ -45,7 +45,7 @@ func disConnect(usb interface{}) {
 	}
 }
 
-func main() {
+func maininterface() {
 	//	var a USB
 	//	a = phoneConnecter{insertName: "nazibodan"}
 	a := phoneConnecter{insertName: "nazibodan"}
