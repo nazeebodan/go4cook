@@ -14,7 +14,7 @@ type UserModel struct {
 func (u UserModel) DoWhat(what string) {
 	fmt.Println(u.Name + " 在 " + what)
 }
-func main() {
+func mainreflect2() {
 	u := UserModel{1, "suredandan", 18}
 	fmt.Println(u)
 	Set(&u)
