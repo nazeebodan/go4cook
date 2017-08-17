@@ -39,7 +39,7 @@ func info(o interface{}) {
 	}
 }
 
-func main() {
+func mainreflect() {
 	u := User{1, "nazibo", 18}
 	info(&u) //info(u) 可以查看区别，所以才有那个异常的捕获
 }
